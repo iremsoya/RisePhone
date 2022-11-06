@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "RCkH6XAcfy/kTRzrPuJuburRspMHjQSuuMs+PZ81ci14xqwlDtWHncjOIWcj24KVm4LeCdgb40EHDW9lz1VgDQ==",
+  "dgSpecHash": "aVZwIhNJgqgdVd0SOYGQst/9GU+S1+oaquLLRFGL3FjOR2JlrC0cBiwt6Zanm14RwQ00QTp/Zl2jlemQO/RVQA==",
   "success": true,
   "projectFilePath": "C:\\Users\\celik\\Desktop\\RisePhone\\Contact.Infrastructure\\Contact.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\celik\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\celik\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
+    "C:\\Users\\celik\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\celik\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\celik\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\celik\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\celik\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

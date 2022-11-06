@@ -8,8 +8,8 @@ namespace Contact.Infrastructure.Models
 {
     public class ContactInfo:Base
     {
-        public int ContactId { get; set; }
-        public int Type { get; set; }
+        public string ContactId { get; set; }
+        public string Type { get; set; }
         public string Description { get; set; }
     }
 }

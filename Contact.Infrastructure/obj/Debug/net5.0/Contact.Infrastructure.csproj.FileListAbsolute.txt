@@ -10,3 +10,15 @@ C:\Users\is\source\repos\RisePhone\Contact.Infrastructure\obj\Debug\net5.0\Conta
 C:\Users\is\source\repos\RisePhone\Contact.Infrastructure\obj\Debug\net5.0\refint\Contact.Infrastructure.dll
 C:\Users\is\source\repos\RisePhone\Contact.Infrastructure\obj\Debug\net5.0\Contact.Infrastructure.pdb
 C:\Users\is\source\repos\RisePhone\Contact.Infrastructure\obj\Debug\net5.0\ref\Contact.Infrastructure.dll
+C:\Users\celik\Desktop\RisePhone\Contact.Infrastructure\bin\Debug\net5.0\Contact.Infrastructure.deps.json
+C:\Users\celik\Desktop\RisePhone\Contact.Infrastructure\bin\Debug\net5.0\Contact.Infrastructure.dll
+C:\Users\celik\Desktop\RisePhone\Contact.Infrastructure\bin\Debug\net5.0\Contact.Infrastructure.pdb
+C:\Users\celik\Desktop\RisePhone\Contact.Infrastructure\obj\Debug\net5.0\Contact.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\celik\Desktop\RisePhone\Contact.Infrastructure\obj\Debug\net5.0\Contact.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celik\Desktop\RisePhone\Contact.Infrastructure\obj\Debug\net5.0\Contact.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\celik\Desktop\RisePhone\Contact.Infrastructure\obj\Debug\net5.0\Contact.Infrastructure.AssemblyInfo.cs
+C:\Users\celik\Desktop\RisePhone\Contact.Infrastructure\obj\Debug\net5.0\Contact.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\celik\Desktop\RisePhone\Contact.Infrastructure\obj\Debug\net5.0\Contact.Infrastructure.dll
+C:\Users\celik\Desktop\RisePhone\Contact.Infrastructure\obj\Debug\net5.0\refint\Contact.Infrastructure.dll
+C:\Users\celik\Desktop\RisePhone\Contact.Infrastructure\obj\Debug\net5.0\Contact.Infrastructure.pdb
+C:\Users\celik\Desktop\RisePhone\Contact.Infrastructure\obj\Debug\net5.0\ref\Contact.Infrastructure.dll
