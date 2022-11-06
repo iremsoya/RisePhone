@@ -1,0 +1,15 @@
+C:\Users\is\source\repos\RisePhone\Contact.Manager\obj\Debug\net5.0\Contact.Manager.csproj.AssemblyReference.cache
+C:\Users\is\source\repos\RisePhone\Contact.Manager\obj\Debug\net5.0\Contact.Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\is\source\repos\RisePhone\Contact.Manager\obj\Debug\net5.0\Contact.Manager.AssemblyInfoInputs.cache
+C:\Users\is\source\repos\RisePhone\Contact.Manager\obj\Debug\net5.0\Contact.Manager.AssemblyInfo.cs
+C:\Users\is\source\repos\RisePhone\Contact.Manager\obj\Debug\net5.0\Contact.Manager.csproj.CoreCompileInputs.cache
+C:\Users\is\source\repos\RisePhone\Contact.Manager\bin\Debug\net5.0\Contact.Manager.deps.json
+C:\Users\is\source\repos\RisePhone\Contact.Manager\bin\Debug\net5.0\Contact.Manager.dll
+C:\Users\is\source\repos\RisePhone\Contact.Manager\bin\Debug\net5.0\Contact.Manager.pdb
+C:\Users\is\source\repos\RisePhone\Contact.Manager\bin\Debug\net5.0\Contact.Infrastructure.dll
+C:\Users\is\source\repos\RisePhone\Contact.Manager\bin\Debug\net5.0\Contact.Infrastructure.pdb
+C:\Users\is\source\repos\RisePhone\Contact.Manager\obj\Debug\net5.0\Contact.Manager.csproj.CopyComplete
+C:\Users\is\source\repos\RisePhone\Contact.Manager\obj\Debug\net5.0\Contact.Manager.dll
+C:\Users\is\source\repos\RisePhone\Contact.Manager\obj\Debug\net5.0\refint\Contact.Manager.dll
+C:\Users\is\source\repos\RisePhone\Contact.Manager\obj\Debug\net5.0\Contact.Manager.pdb
+C:\Users\is\source\repos\RisePhone\Contact.Manager\obj\Debug\net5.0\ref\Contact.Manager.dll

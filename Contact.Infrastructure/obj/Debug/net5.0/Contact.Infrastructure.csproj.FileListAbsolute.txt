@@ -1,0 +1,12 @@
+C:\Users\is\source\repos\RisePhone\Contact.Infrastructure\obj\Debug\net5.0\Contact.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\is\source\repos\RisePhone\Contact.Infrastructure\obj\Debug\net5.0\Contact.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\is\source\repos\RisePhone\Contact.Infrastructure\obj\Debug\net5.0\Contact.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\is\source\repos\RisePhone\Contact.Infrastructure\obj\Debug\net5.0\Contact.Infrastructure.AssemblyInfo.cs
+C:\Users\is\source\repos\RisePhone\Contact.Infrastructure\obj\Debug\net5.0\Contact.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\is\source\repos\RisePhone\Contact.Infrastructure\bin\Debug\net5.0\Contact.Infrastructure.deps.json
+C:\Users\is\source\repos\RisePhone\Contact.Infrastructure\bin\Debug\net5.0\Contact.Infrastructure.dll
+C:\Users\is\source\repos\RisePhone\Contact.Infrastructure\bin\Debug\net5.0\Contact.Infrastructure.pdb
+C:\Users\is\source\repos\RisePhone\Contact.Infrastructure\obj\Debug\net5.0\Contact.Infrastructure.dll
+C:\Users\is\source\repos\RisePhone\Contact.Infrastructure\obj\Debug\net5.0\refint\Contact.Infrastructure.dll
+C:\Users\is\source\repos\RisePhone\Contact.Infrastructure\obj\Debug\net5.0\Contact.Infrastructure.pdb
+C:\Users\is\source\repos\RisePhone\Contact.Infrastructure\obj\Debug\net5.0\ref\Contact.Infrastructure.dll
